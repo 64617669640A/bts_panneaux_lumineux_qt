@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ambre.png</file>
+        <file>dark_green.png</file>
+        <file>dark_red.png</file>
+        <file>ecran.bmp</file>
+        <file>light_green.png</file>
+        <file>light_red.png</file>
+        <file>marron.png</file>
+        <file>orange.png</file>
+        <file>yellow.png</file>
+    </qresource>
+</RCC>
